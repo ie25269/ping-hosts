@@ -1,0 +1,23 @@
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# vi
+*~
+
+# General
+log/
+*.log
+
+# Backups
+*.bkup
+
+# CSV
+*.csv
+
+# TXT
+*.txt
+
+
